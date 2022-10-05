@@ -1,0 +1,7 @@
+{
+    "name": "MyPWA",
+    "short_name": "PWA",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone"
+  }
