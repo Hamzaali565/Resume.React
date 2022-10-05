@@ -21,7 +21,7 @@ function Hi() {
       <div className="main1">
         <h1>EDUCATION:</h1>
         <div className="flex1">
-          <p className="p0"><b><u>2017-2019:</u></b></p>
+          <p className="p0"><b><u>2017-2022:</u></b></p>
           <p className="p3">Pakistan Shipowner's Govt. College</p>
         </div>
         <div className="flex2">
@@ -34,6 +34,8 @@ function Hi() {
         <h1>SKILLS:</h1>
         <ol>
           <li><u><b>FRONTEND DEVELOPER</b></u></li>
+          <li><u><b>HTML CSS Bootstrap</b></u></li>
+          <li><u><b>JavaScript React Js</b></u></li>
           <li><b><u>VIRTUAL ASSISTANT AT AMAZON</u></b></li>
           <li><b><u>TECHITION OF AUTOMOBILE PANEL SYSTEM</u></b></li>
           <li><b><u>ELECTRONIC TECHNITION</u></b></li>
